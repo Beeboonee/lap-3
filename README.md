@@ -11,5 +11,5 @@ This project performs Exploratory Data Analysis (EDA) on the Students Performanc
 - Identified patterns and insights
 
 ## Files Included:
-- Lab3.ipynb
+- Untitled6 (1).ipynb
 - StudentsPerformance.csv
